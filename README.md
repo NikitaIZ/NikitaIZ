@@ -62,3 +62,39 @@ Implementación y desarrollo de chat de soporte para los clientes a través de u
 -   **Lenguajes:** PHP, MySQL, JavaScript, Python.
 -   **Ambiente de Desarrollo:** Apache Server, PHPMyAdmin, MySQL Server, Windows 10, Ubuntu 20.X.
 -   **Plataformas:** GoDaddy, Twilio (Facebook partner).
+
+## **👨‍🎓 Formación académica**
+
+### **🎓 Formación universitaria**
+
+| Nombre                 | Universidad                           | Año de finalización |
+| ---------------------- | ------------------------------------- | ------------------- |
+| Ingeniería de Sistemas | Universidad de Margarita, Unimar      | 2022                |
+
+### **Habilidades técnicas**
+
+#### **Conocimientos informáticos**
+
+-   LibreOffice
+-   Microsoft Excel
+-   Microsoft Outlook
+-   Microsoft PowerPoint
+-   Microsoft Word
+-   Open Office
+
+#### **Conocimientos y habilidades**
+
+-   bootstrap 5
+-   CSS
+-   CSS3
+-   SASS
+-   HTML
+-   HTML 5
+-   JavaScript
+-   jQuery
+-   MySql
+-   Node.js
+-   PHP
+-   SQL Server
+-   Laravel 8
+-   Composer
