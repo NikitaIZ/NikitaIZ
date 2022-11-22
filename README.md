@@ -50,8 +50,15 @@ Desarrollo de formularios y paginas para sorteos.
 -   **Ambiente de Desarrollo:** Apache Server, PHPMyAdmin, MySQL Server, CMS WordPress, Windows 10, Ubuntu on WSL, Ubuntu 20.X.
 -   **Plataformas:** GoDaddy.
 
-Implementación, desarrollo y mantenimiento de herramienta para reportes diarios "Fangorn"
+Implementación, desarrollo y mantenimiento de herramienta para reportes diarios "Fangorn".
 
 -   **Lenguajes:** PHP, MySQL, JavaScript.
 -   **Ambiente de Desarrollo:** Apache Server, PHPMyAdmin, MySQL Server, Windows 10, Ubuntu 20.X.
 -   **Frameworks:** Laravel y Livewire.
+
+
+Implementación y desarrollo de chat de soporte para los clientes a través de un único número de WhatsApp.
+
+-   **Lenguajes:** PHP, MySQL, JavaScript, Python.
+-   **Ambiente de Desarrollo:** Apache Server, PHPMyAdmin, MySQL Server, Windows 10, Ubuntu 20.X.
+-   **Plataformas:** GoDaddy, Twilio (Facebook partner).
