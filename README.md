@@ -18,7 +18,7 @@
 
 Soy Ingeniera de Sistemas graduada en la [Universidad de Margarita, Unimar](https://www.unimar.edu.ve/) en Venezuela el Mayo de 2022, pero tengo experiencia en el campo adquirida desde Noviembre de 2019. He trabajado en proyectos en base a varios lenguajes de programacion tales como PHP, Javascript y Mysql, enfocada mas al entorno del desarrollo web, asi como también haciendo uso de distintos frameworks como Laravel, Node.js y Bootstrap.
 
-## **👨‍💼 Formación profesional**
+## **👩🏻‍💼 Formación profesional**
 
 ### **💼 Desarrollador Full Stack**
 
