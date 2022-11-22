@@ -1,6 +1,6 @@
 # **Michelle Yalaupari**
 
-   <img src="https://github.com/NikitaIZ/NikitaIZ/blob/main/perfil_cv.jpg" style="width: 300px; position: center" >
+   <img src="https://raw.githubusercontent.com/NikitaIZ/NikitaIZ/main/perfil_cv.jpg" style="width: 300px; position: center" >
 
 ## **🙋🏻‍♀️ Datos personales**
 
