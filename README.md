@@ -4,7 +4,7 @@
 
 ### **📋 Información**
 
--   Años de Experiencia: 2
+-   Años de Experiencia: 3
 -   Fecha de nacimiento: 19 de Diciembre de 1998
 -   Domicilio: Nueva Esparta, Venezuela
 
