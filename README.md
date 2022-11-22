@@ -63,7 +63,7 @@ Implementación y desarrollo de chat de soporte para los clientes a través de u
 -   **Ambiente de Desarrollo:** Apache Server, PHPMyAdmin, MySQL Server, Windows 10, Ubuntu 20.X.
 -   **Plataformas:** GoDaddy, Twilio (Facebook partner).
 
-## **👨‍🎓 Formación académica**
+## **👩🏻‍🎓 Formación académica**
 
 ### **🎓 Formación universitaria**
 
